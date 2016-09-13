@@ -11,6 +11,8 @@
  <a href="http://p1.thehomelabs.com">Project 1 Site</a>
  <br>
  <a href="https://github.com/rylad/cscie15">Project 1 Git Repository</a>
+ <br> 
+ <a href ="https://youtu.be/3ugNejjZlpw"> Project 1 Screencast</a>
 
  <h2>Project 2 Links</h2>
  <a href="http://p2.thehomelabs.com">Project 2 Site</a>
