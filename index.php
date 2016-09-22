@@ -18,6 +18,8 @@
  <a href="http://p2.thehomelabs.com">Project 2 Site</a>
  <br>
  <a href="https://github.com/rylad/cscie15-2">Project 2 Git Repository</a>
+ <br>
+ <a href ="https://youtu.be/HnBropyXiXY">Project 2 Screencast</a>
 
  <h2>Project 3 Links</h2>
  <a href="http://p3.thehomelabs.com">Project 3 Site</a>
