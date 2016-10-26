@@ -24,7 +24,7 @@
  <h2>Project 3 Links</h2>
  <a href="http://p3.thehomelabs.com">Project 3 Site</a>
  <br>
- <a href="https://github.com/rylad/cscie15-3">Project 3 Git Repository</a>
+ <a href="https://github.com/rylad/lorum">Project 3 Git Repository</a>
 
  <h2>Project 4 Links</h2>
  <a href="http://p4.thehomelabs.com">Project 4 Site</a>
